@@ -20,7 +20,7 @@ public class LinearSearch {
             if (ary[i] == key) {
                 ans = i;
                 break;
-
+            }
         }
 
         System.out.println(ans);
